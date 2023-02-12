@@ -1,0 +1,79 @@
+D:\junk\Zadaca\bin\Debug\Zadaca.exe.config
+D:\junk\Zadaca\bin\Debug\Zadaca.exe
+D:\junk\Zadaca\bin\Debug\Zadaca.pdb
+D:\junk\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+D:\junk\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+D:\junk\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+D:\junk\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+D:\junk\Zadaca\obj\Debug\Zadaca.exe
+D:\junk\Zadaca\obj\Debug\Zadaca.pdb
+D:\junk\Zadaca\obj\Debug\Zadaca.registar.resources
+D:\junk\Zadaca\obj\Debug\Zadaca.Login.resources
+D:\junk\Zadaca\obj\Debug\Zadaca.dash.resources
+D:\junk\Zadaca\obj\Debug\Zadaca.masterPage.resources
+D:\junk\Zadaca\bin\Debug\db_aplikacija.mdb
+E:\Zadaca\bin\Debug\db_aplikacija.mdb
+E:\Zadaca\bin\Debug\Zadaca.exe.config
+E:\Zadaca\bin\Debug\Zadaca.exe
+E:\Zadaca\bin\Debug\Zadaca.pdb
+E:\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+E:\Zadaca\obj\Debug\Zadaca.dash.resources
+E:\Zadaca\obj\Debug\Zadaca.masterPage.resources
+E:\Zadaca\obj\Debug\Zadaca.registar.resources
+E:\Zadaca\obj\Debug\Zadaca.Login.resources
+E:\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+E:\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+E:\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+E:\Zadaca\obj\Debug\Zadaca.exe
+E:\Zadaca\obj\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\Zadaca\bin\Debug\db_aplikacija.mdb
+C:\Users\Hamza\Desktop\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Users\Hamza\Desktop\Zadaca\bin\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\Zadaca\bin\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.dash.resources
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.masterPage.resources
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.registar.resources
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.Login.resources
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\Zadaca\obj\Debug\Zadaca.pdb
+E:\Zadaca\bin\Debug\System.dll
+E:\Zadaca\bin\Debug\System.xml
+E:\Zadaca\obj\Debug\Zadaca.csproj.CopyComplete
+F:\Zadaca\bin\Debug\db_aplikacija.mdb
+F:\Zadaca\bin\Debug\Zadaca.exe.config
+F:\Zadaca\bin\Debug\Zadaca.exe
+F:\Zadaca\bin\Debug\Zadaca.pdb
+F:\Zadaca\bin\Debug\System.dll
+F:\Zadaca\bin\Debug\System.xml
+F:\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+F:\Zadaca\obj\Debug\Zadaca.dash.resources
+F:\Zadaca\obj\Debug\Zadaca.masterPage.resources
+F:\Zadaca\obj\Debug\Zadaca.registar.resources
+F:\Zadaca\obj\Debug\Zadaca.Login.resources
+F:\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+F:\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+F:\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+F:\Zadaca\obj\Debug\Zadaca.csproj.CopyComplete
+F:\Zadaca\obj\Debug\Zadaca.exe
+F:\Zadaca\obj\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\db_aplikacija.mdb
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\System.dll
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\bin\Debug\System.xml
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.dash.resources
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.masterPage.resources
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.registar.resources
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.Login.resources
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.CopyComplete
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.pdb

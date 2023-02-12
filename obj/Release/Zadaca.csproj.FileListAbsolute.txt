@@ -1,0 +1,12 @@
+D:\junk\Zadaca\bin\Release\Zadaca.exe.config
+D:\junk\Zadaca\bin\Release\Zadaca.exe
+D:\junk\Zadaca\bin\Release\Zadaca.pdb
+D:\junk\Zadaca\obj\Release\Zadaca.csproj.AssemblyReference.cache
+D:\junk\Zadaca\obj\Release\Zadaca.registar.resources
+D:\junk\Zadaca\obj\Release\Zadaca.Login.resources
+D:\junk\Zadaca\obj\Release\Zadaca.Properties.Resources.resources
+D:\junk\Zadaca\obj\Release\Zadaca.csproj.GenerateResource.cache
+D:\junk\Zadaca\obj\Release\Zadaca.csproj.CoreCompileInputs.cache
+D:\junk\Zadaca\obj\Release\Zadaca.exe
+D:\junk\Zadaca\obj\Release\Zadaca.pdb
+D:\junk\Zadaca\obj\Release\Zadaca.dash.resources
