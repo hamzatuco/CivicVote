@@ -77,3 +77,21 @@ C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.CoreCompil
 C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.csproj.CopyComplete
 C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.exe
 C:\Users\Hamza\Desktop\Igraonica forma\Zadaca\obj\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\igr\bin\Debug\Zadaca.exe.config
+C:\Users\Hamza\Desktop\igr\bin\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\igr\bin\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\igr\bin\Debug\System.dll
+C:\Users\Hamza\Desktop\igr\bin\Debug\System.xml
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.registar.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Login.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Properties.Resources.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.csproj.CopyComplete
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.exe
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.pdb
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Dash.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Master.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Admin.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Glasanje.resources

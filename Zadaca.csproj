@@ -50,47 +50,65 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dash.cs">
+    <Compile Include="Pages\Glasaci.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="dash.Designer.cs">
-      <DependentUpon>dash.cs</DependentUpon>
+    <Compile Include="Pages\Glasaci.Designer.cs">
+      <DependentUpon>Glasaci.cs</DependentUpon>
     </Compile>
-    <Compile Include="db_aplikacijaDataSet.Designer.cs">
+    <Compile Include="GlasanjeDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>db_aplikacijaDataSet.xsd</DependentUpon>
+      <DependentUpon>GlasanjeDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="masterPage.cs">
+    <Compile Include="Pages\Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="masterPage.Designer.cs">
-      <DependentUpon>masterPage.cs</DependentUpon>
+    <Compile Include="Pages\Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registracija.cs">
+    <Compile Include="Pages\Master.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Registracija.Designer.cs">
+    <Compile Include="Pages\Master.Designer.cs">
+      <DependentUpon>Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Glasanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Glasanje.Designer.cs">
+      <DependentUpon>Glasanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Registracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Registracija.Designer.cs">
       <DependentUpon>Registracija.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Pages\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="Pages\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="dash.resx">
-      <DependentUpon>dash.cs</DependentUpon>
+    <EmbeddedResource Include="Pages\Glasaci.resx">
+      <DependentUpon>Glasaci.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="masterPage.resx">
-      <DependentUpon>masterPage.cs</DependentUpon>
+    <EmbeddedResource Include="Pages\Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Registracija.resx">
+    <EmbeddedResource Include="Pages\Master.resx">
+      <DependentUpon>Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Glasanje.resx">
+      <DependentUpon>Glasanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Registracija.resx">
       <DependentUpon>Registracija.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="Pages\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -103,16 +121,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="db_aplikacijaDataSet.xsc">
-      <DependentUpon>db_aplikacijaDataSet.xsd</DependentUpon>
+    <None Include="GlasanjeDataSet.xsc">
+      <DependentUpon>GlasanjeDataSet.xsd</DependentUpon>
     </None>
-    <None Include="db_aplikacijaDataSet.xsd">
+    <None Include="GlasanjeDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>db_aplikacijaDataSet.Designer.cs</LastGenOutput>
+      <LastGenOutput>GlasanjeDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="db_aplikacijaDataSet.xss">
-      <DependentUpon>db_aplikacijaDataSet.xsd</DependentUpon>
+    <None Include="GlasanjeDataSet.xss">
+      <DependentUpon>GlasanjeDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -184,10 +202,6 @@
     <None Include="src\Background.jpg.png" />
     <None Include="src\1.jpg.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="db_aplikacija.mdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -62,5 +62,16 @@ namespace Zadaca.Properties {
                 return ((string)(this["db_aplikacijaConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=HAMZA-MAINPC\\SQLEXPRESS;Initial Catalog=Glasanje;Integrated Security=" +
+            "True")]
+        public string GlasanjeConnectionString {
+            get {
+                return ((string)(this["GlasanjeConnectionString"]));
+            }
+        }
     }
 }
