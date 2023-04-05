@@ -510,7 +510,7 @@ namespace Zadaca
             this.MaximizeBox = false;
             this.Name = "registar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "5";
+            this.Text = "CivicVote";
             this.Load += new System.EventHandler(this.registar_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

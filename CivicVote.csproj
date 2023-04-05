@@ -197,7 +197,6 @@
     <Content Include="Resources\vote.gif" />
     <Content Include="Resources\vote1.gif" />
     <Content Include="Resources\x.jpg" />
-    <Content Include="src\text.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
