@@ -136,14 +136,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="GlasanjeDataSet.xsc">
       <DependentUpon>GlasanjeDataSet.xsd</DependentUpon>
     </None>
@@ -170,72 +165,39 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Resources\smooch.ttf" />
-    <None Include="Resources\SmoochSans-ExtraBold.ttf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\preuzmi %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\preuzmi %282%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\preuzmi %283%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\font.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\text.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\passcheck.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Untitled-3.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\33-338711_circle-user-icon-blue-hd-png-download.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\kindpng_338711.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\user-icon-png-transparent-17.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SeekPng.com_home-symbol-png_3392184.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SeekPng.com_home-symbol-png_33921841.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\kisspng-computer-icons-vector-graphics-statistics-chart-cl-5c19aeea742b05.0893279815451870504758.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="src\kindpng_1367616.png" />
-    <None Include="src\underconstruction-900x472.jpg" />
-    <None Include="src\true.png" />
-    <None Include="src\[CITYPNG.COM]HD Joystick Game Controller Yellow Icon Transparent PNG - 512x512.png" />
-    <None Include="src\kindpng_47194.png" />
-    <None Include="src\controller_106642.png" />
-    <None Include="src\11.png" />
-    <None Include="src\Background1.png" />
-    <None Include="src\text.png" />
-    <None Include="src\Background.jpg.png" />
-    <None Include="src\1.jpg.png" />
-  </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\arsa.jpg" />
+    <Content Include="Resources\confirm.png" />
+    <Content Include="Resources\email.png" />
+    <Content Include="Resources\id-card.png" />
+    <Content Include="Resources\lamsa.jpg" />
+    <Content Include="Resources\lock.png" />
+    <Content Include="Resources\logo.ico" />
+    <Content Include="Resources\logo.jpg" />
+    <Content Include="Resources\logo.png" />
+    <None Include="Resources\tare.jpg" />
+    <Content Include="Resources\text.png" />
+    <Content Include="Resources\text1.png" />
+    <Content Include="Resources\user.png" />
+    <Content Include="Resources\vote.gif" />
+    <Content Include="Resources\vote1.gif" />
+    <Content Include="Resources\x.jpg" />
+    <Content Include="src\text.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

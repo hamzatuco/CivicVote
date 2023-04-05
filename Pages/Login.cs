@@ -59,6 +59,16 @@ namespace Zadaca
         
         public void button3_Click(object sender, EventArgs e)
         {
+            string emailCheck = emailInput.Text;
+
+           
+               
+
+            
+
+
+
+
             // Define connection string
             string connString = @"Data Source = HAMZA-MAINPC\SQLEXPRESS;" +
                                 "Initial Catalog = Glasanje;" +

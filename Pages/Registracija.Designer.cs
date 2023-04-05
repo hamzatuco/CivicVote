@@ -329,7 +329,7 @@ namespace Zadaca
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Image = global::Zadaca.Properties.Resources.text1;
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
             this.pictureBox8.Location = new System.Drawing.Point(95, 299);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(264, 124);
@@ -386,7 +386,7 @@ namespace Zadaca
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Image = global::Zadaca.Properties.Resources.text1;
+            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
             this.pictureBox10.Location = new System.Drawing.Point(95, 423);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(264, 124);

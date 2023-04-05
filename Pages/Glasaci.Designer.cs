@@ -301,8 +301,10 @@ namespace Zadaca
             this.Controls.Add(this.button1);
             this.Controls.Add(this.glasaciDataGridView);
             this.Controls.Add(this.glasaciBindingNavigator);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Dash";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Glasači";
             this.Load += new System.EventHandler(this.Dash_Load);
             ((System.ComponentModel.ISupportInitialize)(this.glasanjeDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.glasaciBindingSource)).EndInit();

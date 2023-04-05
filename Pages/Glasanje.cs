@@ -78,8 +78,7 @@ namespace Zadaca
             label8.Font = new Font("Poppins SemiBold", 13);
             label7.Font = new Font("Poppins SemiBold", 13);
             button1.Font = new Font("Poppins SemiBold", 9);
-            button2.Font = new Font("Poppins SemiBold", 12);
-            button2.Location = new Point((this.ClientSize.Width - button2.Size.Width) / 2, button2.Location.Y);
+            button2.Font = new Font("Poppins SemiBold", 9);
             button1.Text = "Glasaj poslije";
 
 
@@ -637,7 +636,9 @@ namespace Zadaca
             }
         }
 
-        private void button2_Click_1(object sender, EventArgs e)
+       
+
+        private void button2_Click_2(object sender, EventArgs e)
         {
             string connString = @"Data Source = HAMZA-MAINPC\SQLEXPRESS;" +
                                "Initial Catalog = Glasanje;" +

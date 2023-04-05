@@ -76,6 +76,21 @@ namespace Zadaca
        
         private void regButton_Click(object sender, EventArgs e)
         {
+            string emailCheck = emailInput.Text;
+
+
+            if (string.IsNullOrEmpty(emailCheck) || !emailCheck.Contains("@") || emailCheck.IndexOf("@") >= emailCheck.LastIndexOf(".") - 1)
+            {
+                MessageBox.Show("Unesite validnu e-mail adresu");
+                return;
+            }
+
+            string lozinkaCheck = lozinkainput.Text;
+            if (lozinkaCheck.Length < 8)
+            {
+                MessageBox.Show("Lozinka mora sadrzavati najmanje 8 karaktera");
+                return;
+            }
 
             string connectionString = @"Data Source = HAMZA-MAINPC\SQLEXPRESS;" +
                                 "Initial Catalog = Glasanje;" +
