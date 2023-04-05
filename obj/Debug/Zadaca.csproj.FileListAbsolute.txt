@@ -95,3 +95,5 @@ C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Dash.resources
 C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Master.resources
 C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Admin.resources
 C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Glasanje.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.Kandidati.resources
+C:\Users\Hamza\Desktop\igr\obj\Debug\Zadaca.ThanksScreen.resources

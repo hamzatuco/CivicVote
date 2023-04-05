@@ -134,5 +134,12 @@ namespace Zadaca
             this.Hide();
             odjava.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Kandidati kandidati = new Kandidati(username);
+            this.Close();
+            kandidati.Show();
+        }
     }
 }

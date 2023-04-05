@@ -50,6 +50,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GlasanjeDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GlasanjeDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Kandidati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Kandidati.Designer.cs">
+      <DependentUpon>Kandidati.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Glasaci.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +77,12 @@
     </Compile>
     <Compile Include="Pages\Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ThanksScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\ThanksScreen.Designer.cs">
+      <DependentUpon>ThanksScreen.cs</DependentUpon>
     </Compile>
     <Compile Include="Pages\Master.cs">
       <SubType>Form</SubType>
@@ -93,11 +110,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Pages\Kandidati.resx">
+      <DependentUpon>Kandidati.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pages\Glasaci.resx">
       <DependentUpon>Glasaci.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pages\Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\ThanksScreen.resx">
+      <DependentUpon>ThanksScreen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pages\Master.resx">
       <DependentUpon>Master.cs</DependentUpon>
@@ -131,6 +154,17 @@
     </None>
     <None Include="GlasanjeDataSet.xss">
       <DependentUpon>GlasanjeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GlasanjeDataSet1.xsc">
+      <DependentUpon>GlasanjeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GlasanjeDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GlasanjeDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GlasanjeDataSet1.xss">
+      <DependentUpon>GlasanjeDataSet1.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

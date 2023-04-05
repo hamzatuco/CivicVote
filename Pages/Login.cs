@@ -74,7 +74,7 @@ namespace Zadaca
 
 
             // Query database for user with entered email
-            SqlCommand command = new SqlCommand("SELECT Ime, Lozinka, Glasao FROM Glasaci WHERE Email=@Email", connection);
+            SqlCommand command = new SqlCommand("SELECT Ime, Lozinka, Glasao, JMBG FROM Glasaci WHERE Email=@Email", connection);
 
             command.Parameters.AddWithValue("@Email", email);
 
@@ -92,8 +92,10 @@ namespace Zadaca
             // Check if a user with the entered email exists in the database
             if (reader.Read())
             {
-                // Get stored password and "Glasao" value for the user
-                string storedPassword = reader["Lozinka"].ToString();
+                    string jmbg = reader["JMBG"].ToString();
+
+                    // Get stored password and "Glasao" value for the user
+                    string storedPassword = reader["Lozinka"].ToString();
                 int glasao = Convert.ToInt32(reader["Glasao"]);
 
                     string imeGlasanje = null;
@@ -107,7 +109,7 @@ namespace Zadaca
                         else
                         {
                             string user = emailInput.Text;
-                            Glasanje glasanje = new Glasanje(imeGlasanje);
+                            Glasanje glasanje = new Glasanje(imeGlasanje,jmbg);
                             this.Hide();
                             glasanje.Show();
                         }

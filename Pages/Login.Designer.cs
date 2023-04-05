@@ -3,6 +3,7 @@ namespace Zadaca
 {
     partial class Login
     {
+        
         /// <summary>
         /// Required designer variable.
         /// </summary>
