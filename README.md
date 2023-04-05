@@ -8,5 +8,5 @@ Projekat je zamišljen da ima svoju C# desktop aplikaciju koja će biti povezana
 Osnovni prerequisite (uslov) pokretanja aplikacije je da trebate imati instaliran font <a href="https://fonts.google.com/specimen/Poppins">Poppins</a> na svom računaru kako bi mogli pokrenuti aplikaciju bez ikakvih bugova
 
 <h1>Screenshotovi aplikacije</h1>
-<img src="https://github.com/hamzatuco/CivicVote/blob/master/screenshots/1.jpg" alt="Screenshot 1">
+<img src="https://user-images.githubusercontent.com/59146488/230140141-d83169d0-cfa3-4a07-86e9-a0701e7b95d0.jpg" alt="Screenshot 1">
 
