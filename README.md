@@ -7,7 +7,8 @@ Projekat je zamišljen da ima svoju C# desktop aplikaciju koja će biti povezana
 
 <b>Osnovni prerequisite (uslov) pokretanja aplikacije je da trebate imati instaliran font <a href="https://fonts.google.com/specimen/Poppins">Poppins</a> na svom računaru kako bi mogli pokrenuti aplikaciju bez ikakvih bugova.
 Drugi uslov jeste da deployate backup baze koji se nalazi u folderu Baza na svoju lokalnu ili hosted bazu, te izmjenite konekcione stringove u kodu</b>
-
+<h1>Logo aplikacije</h1>
+<img src="https://user-images.githubusercontent.com/59146488/230190730-673b7498-c3bf-4d3a-98c8-4e0205482414.jpg">
 <h1>Screenshotovi aplikacije</h1>
 <h3>Login screen</h3>
 <img src="https://user-images.githubusercontent.com/59146488/230140141-d83169d0-cfa3-4a07-86e9-a0701e7b95d0.jpg" alt="Screenshot 1">
